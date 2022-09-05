@@ -1,2 +1,2 @@
 # py
-Automatic latest python selector
+Automatic latest python launcher
